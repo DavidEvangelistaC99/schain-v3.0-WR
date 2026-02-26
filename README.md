@@ -11,6 +11,19 @@ data.
 - Python-TK (python-tk)
 - HDF5 libraries (libhdf5-dev)
 
+## Requirements for this version
+- Python 3.10+
+- digital_rf 2.6.7
+- matplotlib 3.5.1
+- numpy <1.24
+- argh 0.26.2
+- cartopy 0.23.0
+- wradlib 2.2.0
+- pillow 9.1.0
+- fuzzywuzzy 0.18.0
+- pycparser 2.22
+- scipy 1.8.0
+
 ## Installation
 
 To get started the easiest way to install it is through
